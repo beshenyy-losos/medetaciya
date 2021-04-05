@@ -1,4 +1,12 @@
-button {
-    
-    
+button{
+    height: 250px;
+    width: 400;
+}
+h1{
+    text-align: center;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
